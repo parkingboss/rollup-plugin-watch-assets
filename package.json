@@ -10,5 +10,8 @@
     "rollup"
   ],
   "author": "Benny Powers <web@bennypowers.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "globby": "^11.0.0"
+  }
 }
