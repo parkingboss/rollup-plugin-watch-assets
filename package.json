@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-watch-assets",
+  "name": "@parkingboss/rollup-plugin-watch-assets",
   "version": "1.0.0",
   "description": "Dead-simple rollup plugin to watch (non-js) assets like HTML and CSS",
   "main": "index.js",
